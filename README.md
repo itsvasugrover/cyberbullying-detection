@@ -1,5 +1,8 @@
 # Cyberbullying Detection API
 
+> [!WARNING]
+> **This repository is now archived and read-only.** It is no longer actively maintained — no further commits, issues, or pull requests will be accepted. The code remains available for reference.
+
 ## Overview
 
 The Cyberbullying Detection API is a fast and efficient tool for detecting instances of cyberbullying in text. It provides a simple endpoint `/analyse` where you can submit text, and it will respond with a classification indicating whether cyberbullying is detected and the type of cyberbullying if applicable.
